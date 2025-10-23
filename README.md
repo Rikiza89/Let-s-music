@@ -15,7 +15,7 @@ A browser-based music creation tool with 46 synthesized instruments and a grid s
 2. Open the file in any modern web browser (Chrome, Firefox, Safari, Edge)
 3. Start creating music!
 
-Try DEMO ![here](https://rikiza.pythonanywhere.com/music)
+Try DEMO [here](https://rikiza.pythonanywhere.com/music)
 
 **No installation, no server, no dependencies required!**
 

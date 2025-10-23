@@ -1,5 +1,3 @@
-
-
 # 🎧 DJ Remix Studio Pro
 
 A browser-based music creation tool with 46 synthesized instruments and a grid sequencer for creating electronic music, beats, and melodies.
@@ -265,14 +263,10 @@ BPM: 120
 ## 🌟 Project Structure
 
 ```
-dj-studio.html          # Single HTML file containing everything
-├── CSS (embedded)      # Styling and responsive design
-├── JavaScript          # Core functionality
-│   ├── instruments{}   # 46 synthesized instruments
-│   ├── Track class     # Track management
-│   ├── Audio engine    # Web Audio API
-│   └── UI controls     # User interface handlers
-└── HTML                # Structure and layout
+main root       # Repository folder
+├── music.html         # music file
+├── README.md          # this file
+└── LICENSE.md         # MIT LICENSE file
 ```
 
 ## 🤝 Contributing
@@ -330,9 +324,9 @@ A: Yes, it's free for any use.
 
 ## 🔗 Links
 
-- [Report Bug](https://github.com/yourusername/dj-studio/issues)
-- [Request Feature](https://github.com/yourusername/dj-studio/issues)
-- [Discussions](https://github.com/yourusername/dj-studio/discussions)
+- [Report Bug](https://github.com/Rikiza89/Let-s-music/issues)
+- [Request Feature](https://github.com/Rikiza89/Let-s-music/issues)
+- [Discussions](https://github.com/Rikiza89/Let-s-music/discussions)
 
 ## 🙏 Acknowledgments
 
